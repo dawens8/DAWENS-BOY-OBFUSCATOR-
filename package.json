@@ -1,0 +1,14 @@
+{
+  "name": "dawens-obfuscator",
+  "version": "1.0.0",
+  "description": "JavaScript Obfuscator Web App by Dawens",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "DAWENS",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
