@@ -10,5 +10,5 @@ app.get('/', (_, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`✅ DAWENS SERVER running on http://localhost:${PORT}`);
+  console.log(`✅ DAWENS OBFUSCATOR running at http://localhost:${PORT}`);
 });
